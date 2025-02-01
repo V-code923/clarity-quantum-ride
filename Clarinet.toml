@@ -8,6 +8,10 @@ requirements = []
 path = "contracts/quantum-ride.clar"
 depends_on = []
 
+[contracts.quantum-ride-ratings]
+path = "contracts/quantum-ride-ratings.clar"
+depends_on = []
+
 [repl]
 costs_version = 2
 parser_version = 2
